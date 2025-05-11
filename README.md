@@ -25,7 +25,7 @@ Also, I **don’t care** if someone decides to copy or steal it — it’s open-
 
 ## 🚀 **Getting Started**
 
-Once the project is installed, you can start using CDMS by running the main script or following the instructions within the repository to set up the system for your content management tasks.
+Once the project is installed, you can start using CDMS by running the main script or following the instructions within the repository to set up the system for your charity management tasks.
 
 ---
 
