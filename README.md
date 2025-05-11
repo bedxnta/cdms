@@ -1,9 +1,10 @@
 # CDMS 📊  
-**A project I made for school**
+CDMS is a simple Charity Donation Management System built for educational purposes. It helps manage donors, donations, and beneficiaries efficiently. This was originally created for a school project.
 
-CDMS (Content Delivery Management System) is a simple tool designed to help manage and track content deliveries. This project was built for educational purposes, so please consider your life choices and the professional context before using this commercially.
+## 🚨 Disclaimer
 
-**Note:** While the code is open-source and available for anyone to use, contribute, or modify, please keep in mind that this is a personal project. It may not be suitable for production or commercial use without modifications.
+This was a school project. Please **reconsider your life choices and sense of professionality** before attempting to use this commercially.  
+Also, I **don’t care** if someone decides to copy or steal it — it’s open-source for a reason. Enjoy.
 
 ---
 
@@ -35,6 +36,6 @@ Once the project is installed, you can start using CDMS by running the main scri
 
 ## 📝 **Features**
 
-- 📅 Content scheduling and delivery tracking
+- 🧾 Track donors and their donations  
+- 📦 Manage charity distribution records  
 - 🛠️ Simple, easy-to-understand interface
-- 🗂️ File and content management
