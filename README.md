@@ -8,11 +8,6 @@ Also, I **don’t care** if someone decides to copy or steal it — it’s open-
 
 ---
 
-## 🚨 **Disclaimer**  
-This project was created for a school assignment and is not intended for production environments. Use at your own risk! The code is open-source (OSS) for a reason—feel free to copy, modify, and enjoy it, but make sure you're not relying on it for any serious commercial purposes unless you are prepared to handle any potential issues.
-
----
-
 ## ⚙️ **Installation**
 
 1. Clone the repository:  
